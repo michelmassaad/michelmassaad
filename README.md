@@ -1,38 +1,35 @@
-<h1 align="center">Hi 👋, I'm Michel Massaad</h1>
-<h3 align="center">Desarrollador Web Junior y estudiante de Programación y Sistemas (UTN), enfocado en crear soluciones eficientes en el cruce entre la tecnología y los deportes.</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Hola,+soy+Michel+Massaad+👋;Desarrollador+Web+Junior+💻;Soluciones+eficientes+y+escalables+🚀;Apasionado+por+la+tecnología+y+el+deporte+⚽" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="https://drive.google.com/file/d/12UV37qNSepGzinm7rTSCymRzUefwq9Ap/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/📄_Ver_Mi_Curriculum-0D1117?style=for-the-badge&logo=google-drive&logoColor=58A6FF&color=0D1117&edge_color=58A6FF" alt="Ver CV Michel Massaad" />
+    <img src="https://img.shields.io/badge/📄_Ver_Mi_Curriculum-2F80ED?style=for-the-badge&logo=google-drive&logoColor=white&color=2F80ED" alt="Ver CV Michel Massaad" />
   </a>
 </p>
 
-- 🔭 I’m currently working on **una aplicación web de recortes deportivos con un sistema de metadatos avanzado (con soporte para múltiples jugadores y múltiples etiquetas simultáneas por evento) y en la automatización de un bot con Python y OpenCV.**
+---
 
-- 🌱 I’m currently learning **desarrollo de Smart Contracts con Solidity (proyecto KipuBank), arquitecturas con Node.js y metodologías de Testing QA.**
+### 👨‍💻 Sobre mí
 
-- 👯 I’m looking to collaborate on **proyectos de desarrollo web escalables, herramientas de análisis de datos deportivos o iniciativas dentro del ecosistema Web3.**
-
-- 🤝 I’m looking for help with **diseño de arquitecturas complejas de backend y conceptos avanzados de criptomonedas (MEV, bug bounties, flash loans).**
-
-- 💬 Ask me about **Python, Java, JavaScript, C++, diseño de bases de datos MySQL, integraciones de e-commerce o recomendaciones de hardware de PC.**
-
-- 📫 How to reach me **michel01ft@gmail.com**
-
-- ⚡ Fun fact **Combino mi experiencia en código con la edición deportiva automatizada, disfruto del armado de PCs y me considero un estratega en el FIFA Ultimate Team y la Casita Robada.**
+- 🔭 **Actualmente trabajando en:** Una aplicación web de recortes deportivos con un sistema de metadatos avanzado (con soporte para múltiples jugadores y múltiples etiquetas simultáneas por evento) y en la automatización de un bot con Python y OpenCV.
+- 🌱 **Aprendiendo:** Desarrollo de Smart Contracts con Solidity (proyecto KipuBank), arquitecturas con Node.js y metodologías de Testing QA.
+- 👯 **Busco colaborar en:** Proyectos de desarrollo web escalables, herramientas de análisis de datos deportivos o iniciativas dentro del ecosistema Web3.
+- 🤝 **Busco ayuda con:** Diseño de arquitecturas complejas de backend y conceptos avanzados de criptomonedas (MEV, bug bounties, flash loans).
+- 💬 **Pregúntame sobre:** Python, Java, JavaScript, C++, diseño de bases de datos MySQL, integraciones de e-commerce o recomendaciones de hardware de PC.
+- ⚡ **Dato curioso:** Combino mi experiencia en código con la edición deportiva automatizada, disfruto del armado de PCs y me considero un estratega en el FIFA Ultimate Team y la Casita Robada.
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+### 🌐 Conecta conmigo
 <p align="left">
 <a href="https://linkedin.com/in/michel-massaad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michel-massaad" height="30" width="40" /></a>
 <a href="https://instagram.com/michel_massaad26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="michel_massaad26" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/1870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="1870" height="30" width="40" /></a>
+<a href="mailto:michel01ft@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="michel01ft@gmail.com" height="30" width="40" /></a>
 </p>
 
----
-
-<h3 align="left">💻 Languages and Tools:</h3>
+### 💻 Lenguajes y Herramientas
 <p align="left"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -49,24 +46,21 @@
 
 ---
 
-<h3 align="left">🚀 Proyectos Destacados</h3>
+### 🚀 Proyectos Destacados
 <p align="left">
-  <a href="https://github.com/michelmassaad/NOMBRE_DE_TU_REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=michelmassaad&repo=NOMBRE_DE_TU_REPO_1&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Proyecto 1" />
+  <a href="https://github.com/michelmassaad/truco-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=michelmassaad&repo=truco-game&theme=radical" alt="Truco Game" />
   </a>
-  <a href="https://github.com/michelmassaad/NOMBRE_DE_TU_REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=michelmassaad&repo=NOMBRE_DE_TU_REPO_2&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Proyecto 2" />
+  <a href="https://github.com/michelmassaad/Ejercicios-Programacion">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=michelmassaad&repo=Ejercicios-Programacion&theme=radical" alt="Ejercicios de Programación" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub Analytics</h3>
+### 📊 GitHub Analytics
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=michelmassaad&show_icons=true&locale=en&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Estadísticas de GitHub" />
-</p>
-<br>
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=michelmassaad&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Lenguajes más usados" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=michelmassaad&show_icons=true&locale=en&theme=radical" alt="Estadísticas de GitHub" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=michelmassaad&show_icons=true&locale=en&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </p>
