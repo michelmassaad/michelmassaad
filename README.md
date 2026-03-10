@@ -49,9 +49,14 @@ Software Developer cursando el último cuatrimestre de Programación y Sistemas 
 ## 📈 Actividad Constante
 
 <div align="center">
-  <a href="https://github.com/michelmassaad">
-    <img src="https://streak-stats.demolab.com?user=michelmassaad&theme=transparent&hide_border=true&title_color=0A66C2&text_color=333333&icon_color=0A66C2&ring_color=0A66C2" alt="GitHub Streak de Michel Massaad" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=michelmassaad&theme=transparent&hide_border=true&title_color=0A66C2&text_color=333333&icon_color=0A66C2&ring_color=0A66C2" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats-virid-ten-56.vercel.app/api?username=michelmassaad&show_icons=true&locale=en&bg_color=00000000&hide_border=true&title_color=0A66C2&text_color=333333&icon_color=0A66C2" height="150" alt="Estadísticas Generales" />
+  <img src="https://github-readme-stats-virid-ten-56.vercel.app/api/top-langs?username=michelmassaad&show_icons=true&locale=en&layout=compact&bg_color=00000000&hide_border=true&title_color=0A66C2&text_color=333333" height="150" alt="Lenguajes Top" />
 </div>
 
 ---
