@@ -55,7 +55,7 @@ Desarrollador de software especializado en backend, automatización de procesos 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=michelmassaad&show_icons=true&locale=en&bg_color=00000000&hide_border=true&title_color=0A66C2&text_color=333333&icon_color=0A66C2" height="150" alt="Estadísticas Generales" />
+  <img src="[![michelmassaad's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelmassaad)](https://github.com/michelmassaad/github-readme-stats)" alt="Estadísticas Generales" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=michelmassaad&show_icons=true&locale=en&layout=compact&bg_color=00000000&hide_border=true&title_color=0A66C2&text_color=333333" height="150" alt="Lenguajes Top" />
 </div>
 
