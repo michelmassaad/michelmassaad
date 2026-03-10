@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://drive.google.com/file/d/12UV37qNSepGzinm7rTSCymRzUefwq9Ap/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/-VER_CURRÍCULUM_VITAE-2F80ED?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV" />
+    <img src="https://img.shields.io/badge/-VER_CURRÍCULUM_VITAE-0A66C2?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV" />
   </a>
   <a href="https://linkedin.com/in/michel-massaad" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -46,30 +46,28 @@ Desarrollador de software especializado en backend, automatización de procesos 
 
 ---
 
-## 📂 Proyectos Destacados
+## 📈 Actividad y Estadísticas
 
 <div align="center">
-  <a href="https://github.com/michelmassaad/truco-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=michelmassaad&repo=truco-game&theme=radical" alt="Truco Game" />
-  </a>
-  <a href="https://github.com/michelmassaad/Ejercicios-Programacion">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=michelmassaad&repo=Ejercicios-Programacion&theme=radical" alt="Ejercicios Programacion" />
-  </a>
-</div>
-
----
-
-## 📈 Estadísticas y Actividad
-
-<div align="center">
-  <a href="https://github.com/michelmassaad">
-    <img src="https://streak-stats.demolab.com?user=michelmassaad&theme=radical&hide_border=true" alt="GitHub Streak de Michel Massaad" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=michelmassaad&theme=transparent&hide_border=true&title_color=0A66C2&text_color=333333&icon_color=0A66C2&ring_color=0A66C2" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=michelmassaad&show_icons=true&locale=en&theme=radical&hide_border=true" width="48%" alt="Estadísticas Generales" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=michelmassaad&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" width="48%" alt="Lenguajes Top" />
+  <img src="https://github-readme-stats.vercel.app/api?username=michelmassaad&show_icons=true&locale=en&bg_color=00000000&hide_border=true&title_color=0A66C2&text_color=333333&icon_color=0A66C2" height="150" alt="Estadísticas Generales" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=michelmassaad&show_icons=true&locale=en&layout=compact&bg_color=00000000&hide_border=true&title_color=0A66C2&text_color=333333" height="150" alt="Lenguajes Top" />
+</div>
+
+---
+
+## 📂 Proyectos Destacados
+
+<div align="center">
+  <a href="https://github.com/michelmassaad/truco-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=michelmassaad&repo=truco-game&bg_color=00000000&hide_border=true&title_color=0A66C2&text_color=333333&icon_color=0A66C2" width="48%" />
+  </a>
+  <a href="https://github.com/michelmassaad/Ejercicios-Programacion">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=michelmassaad&repo=Ejercicios-Programacion&bg_color=00000000&hide_border=true&title_color=0A66C2&text_color=333333&icon_color=0A66C2" width="48%" />
+  </a>
 </div>
