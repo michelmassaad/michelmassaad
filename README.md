@@ -16,13 +16,13 @@
 
 ## 🚀 Sobre mí
 
-Software Developer cursando el último cuatrimestre de Programación y Sistemas (UTN). Me especializo en **backend, automatización y arquitecturas de datos**, transformando problemas lógicos complejos en soluciones escalables.
+Software Developer cursando el último cuatrimestre de Programación y Sistemas (UTN). Me especializo en **arquitecturas backend, automatización y desarrollo Full-stack**, creando desde herramientas de análisis deportivo hasta plataformas interactivas de coleccionables. 
 
 ### 🎯 Foco Técnico
 
-- ⚙️ **Backend & Datos:** Diseño de bases relacionales y sistemas de metadatos avanzados.
-- 🔧 **Automatización:** Desarrollo de scripts y bots de visión computacional con **Python y OpenCV**.
-- ⛓️ **Web3:** Creación de Smart Contracts con **Solidity** (Proyecto KipuBank).
+- 🎮 **Plataformas Interactivas & Fullstack:** Desarrollo de aplicaciones completas con separación de cliente/servidor (Arquitectura de APIs para plataformas de "barajitas" y coleccionables).
+- ⚙️ **Backend & Datos:** Diseño de bases de datos relacionales para manejar múltiples entidades, inventarios y sistemas de etiquetado avanzado para análisis de video.
+- 🔧 **Automatización:** Desarrollo de scripts y bots de visión computacional con **Python y OpenCV** para flujos de trabajo eficientes.
 
 ---
 
@@ -46,28 +46,18 @@ Software Developer cursando el último cuatrimestre de Programación y Sistemas 
 
 ---
 
-## 📈 Actividad y Estadísticas
+## 📈 Actividad Constante
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=michelmassaad&theme=transparent&hide_border=true&title_color=0A66C2&text_color=333333&icon_color=0A66C2&ring_color=0A66C2" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats-virid-ten-56.vercel.app/api?username=michelmassaad&show_icons=true&locale=en&bg_color=00000000&hide_border=true&title_color=0A66C2&text_color=333333&icon_color=0A66C2" height="150" alt="Estadísticas Generales" />
-  <img src="https://github-readme-stats-virid-ten-56.vercel.app/api/top-langs?username=michelmassaad&show_icons=true&locale=en&layout=compact&bg_color=00000000&hide_border=true&title_color=0A66C2&text_color=333333" height="150" alt="Lenguajes Top" />
+  <a href="https://github.com/michelmassaad">
+    <img src="https://streak-stats.demolab.com?user=michelmassaad&theme=transparent&hide_border=true&title_color=0A66C2&text_color=333333&icon_color=0A66C2&ring_color=0A66C2" alt="GitHub Streak de Michel Massaad" />
+  </a>
 </div>
 
 ---
 
 ## 📂 Proyectos Destacados
 
-<div align="center">
-  <a href="https://github.com/michelmassaad/truco-game">
-    <img src="https://github-readme-stats-virid-ten-56.vercel.app/api/pin/?username=michelmassaad&repo=truco-game&bg_color=00000000&hide_border=true&title_color=0A66C2&text_color=333333&icon_color=0A66C2" width="48%" alt="Truco Game" />
-  </a>
-  <a href="https://github.com/michelmassaad/Ejercicios-Programacion">
-    <img src="https://github-readme-stats-virid-ten-56.vercel.app/api/pin/?username=michelmassaad&repo=Ejercicios-Programacion&bg_color=00000000&hide_border=true&title_color=0A66C2&text_color=333333&icon_color=0A66C2" width="48%" alt="Ejercicios Programacion" />
-  </a>
-</div>
+| 🃏 [Plataforma de Barajitas (Backend)](https://github.com/michelmassaad/grupo7Integrador25C2Div132_back) | 💻 [Plataforma de Barajitas (Frontend)](https://github.com/michelmassaad/grupo7Integrador25C2Div132_front) |
+| :--- | :--- |
+| **Arquitectura:** API REST / Base de Datos<br><br>Desarrollo del motor lógico y base de datos para una plataforma de coleccionables, gestionando usuarios, inventarios de cartas y lógica de intercambio. | **Arquitectura:** Interfaz de Usuario / Consumo de API<br><br>Implementación visual y dinámica de la plataforma de barajitas, asegurando una experiencia interactiva fluida conectada al servidor. |
