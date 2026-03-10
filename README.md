@@ -20,10 +20,9 @@ Software Developer cursando el último cuatrimestre de Programación y Sistemas 
 
 ### 🎯 Foco Técnico
 
-- 🎮 **Plataformas Interactivas & Fullstack:** Desarrollo de aplicaciones completas con separación de cliente/servidor (Arquitectura de APIs para plataformas de "barajitas" y coleccionables).
-- ⚙️ **Backend & Datos:** Diseño de bases de datos relacionales para manejar múltiples entidades, inventarios y sistemas de etiquetado avanzado para análisis de video.
-- 🔧 **Automatización:** Desarrollo de scripts y bots de visión computacional con **Python y OpenCV** para flujos de trabajo eficientes.
-
+- 🎮 **Plataformas & Fullstack:** Creación de ecosistemas cliente/servidor y arquitecturas de APIs para plataformas interactivas y sistemas de coleccionables.
+- ⚙️ **Backend & Datos:** Modelado de bases de datos relacionales orientadas a gestionar inventarios, economía interna y etiquetado masivo de eventos deportivos.
+- 🔧 **Automatización & Web3:** Desarrollo de bots de visión computacional con Python/OpenCV y diseño de Smart Contracts (Solidity).
 ---
 
 ## 🛠️ Stack Tecnológico
