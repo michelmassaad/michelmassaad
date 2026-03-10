@@ -48,20 +48,10 @@ Desarrollador de software especializado en backend, automatización de procesos 
 
 ## 📂 Proyectos Destacados
 
-<div align="center">
-  <a href="https://github.com/michelmassaad/truco-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=michelmassaad&repo=truco-game&theme=radical&v=1" width="48%" />
-  </a>
-  <a href="https://github.com/michelmassaad/Ejercicios-Programacion">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=michelmassaad&repo=Ejercicios-Programacion&theme=radical&v=1" width="48%" />
-  </a>
-</div>
+[![Truco Game](https://github-readme-stats.vercel.app/api/pin/?username=michelmassaad&repo=truco-game&theme=radical)](https://github.com/michelmassaad/truco-game) [![Ejercicios Programacion](https://github-readme-stats.vercel.app/api/pin/?username=michelmassaad&repo=Ejercicios-Programacion&theme=radical)](https://github.com/michelmassaad/Ejercicios-Programacion)
 
 ---
 
 ## 📈 Estadísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=michelmassaad&show_icons=true&locale=en&theme=radical&hide_border=true&v=1" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=michelmassaad&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&v=1" width="48%" />
-</div>
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=michelmassaad&show_icons=true&locale=en&theme=radical&hide_border=true) ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs?username=michelmassaad&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true)
