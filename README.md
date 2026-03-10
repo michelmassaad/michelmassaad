@@ -49,4 +49,25 @@ Desarrollador de software especializado en backend, automatización de procesos 
 ## 📈 Actividad y Estadísticas
 
 <div align="center">
-  <img src="
+  <img src="https://streak-stats.demolab.com?user=michelmassaad&theme=transparent&hide_border=true&title_color=0A66C2&text_color=333333&icon_color=0A66C2&ring_color=0A66C2" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats-virid-ten-56.vercel.app/api?username=michelmassaad&show_icons=true&locale=en&bg_color=00000000&hide_border=true&title_color=0A66C2&text_color=333333&icon_color=0A66C2" height="150" alt="Estadísticas Generales" />
+  <img src="https://github-readme-stats-virid-ten-56.vercel.app/api/top-langs?username=michelmassaad&show_icons=true&locale=en&layout=compact&bg_color=00000000&hide_border=true&title_color=0A66C2&text_color=333333" height="150" alt="Lenguajes Top" />
+</div>
+
+---
+
+## 📂 Proyectos Destacados
+
+<div align="center">
+  <a href="https://github.com/michelmassaad/truco-game">
+    <img src="https://github-readme-stats-virid-ten-56.vercel.app/api/pin/?username=michelmassaad&repo=truco-game&bg_color=00000000&hide_border=true&title_color=0A66C2&text_color=333333&icon_color=0A66C2" width="48%" alt="Truco Game" />
+  </a>
+  <a href="https://github.com/michelmassaad/Ejercicios-Programacion">
+    <img src="https://github-readme-stats-virid-ten-56.vercel.app/api/pin/?username=michelmassaad&repo=Ejercicios-Programacion&bg_color=00000000&hide_border=true&title_color=0A66C2&text_color=333333&icon_color=0A66C2" width="48%" alt="Ejercicios Programacion" />
+  </a>
+</div>
