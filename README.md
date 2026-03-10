@@ -14,15 +14,15 @@
 
 ---
 
-## 🚀 Perfil Profesional
+## 🚀 Sobre mí
 
-Desarrollador de software especializado en backend, automatización de procesos y diseño de arquitecturas de datos. Enfocado en la creación de soluciones eficientes y escalables, integrando tecnologías modernas para resolver problemas de lógica de negocios complejos. Actualmente cursando el último cuatrimestre de la carrera de Programación y Sistemas (UTN).
+Software Developer cursando el último cuatrimestre de Programación y Sistemas (UTN). Me especializo en **backend, automatización y arquitecturas de datos**, transformando problemas lógicos complejos en soluciones escalables.
 
-### 🎯 Foco Técnico y Desarrollo
+### 🎯 Foco Técnico
 
-- ⚙️ **Arquitectura de Datos & Backend:** Desarrollo de modelos de bases de datos relacionales avanzadas. Implementación de sistemas de metadatos robustos que soportan interacciones simultáneas complejas.
-- 🔧 **Automatización & Visión Computacional:** Construcción de scripts, bots y herramientas automatizadas utilizando Python y OpenCV para la optimización de flujos de trabajo.
-- ⛓️ **Ecosistema Web3:** Investigación y desarrollo de Smart Contracts utilizando Solidity (Proyecto KipuBank).
+- ⚙️ **Backend & Datos:** Diseño de bases relacionales y sistemas de metadatos avanzados.
+- 🔧 **Automatización:** Desarrollo de scripts y bots de visión computacional con **Python y OpenCV**.
+- ⛓️ **Web3:** Creación de Smart Contracts con **Solidity** (Proyecto KipuBank).
 
 ---
 
