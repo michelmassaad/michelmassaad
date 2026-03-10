@@ -20,7 +20,7 @@ Desarrollador de software especializado en backend, automatización de procesos 
 
 ### 🎯 Foco Técnico y Desarrollo
 
-- ⚙️ **Arquitectura de Datos & Backend:** Desarrollo de modelos de bases de datos relacionales avanzadas. Implementación de sistemas de metadatos robustos que soportan interacciones simultáneas complejas (modelos de etiquetado de múltiples entidades y múltiples acciones por evento para plataformas de análisis).
+- ⚙️ **Arquitectura de Datos & Backend:** Desarrollo de modelos de bases de datos relacionales avanzadas. Implementación de sistemas de metadatos robustos que soportan interacciones simultáneas complejas.
 - 🔧 **Automatización & Visión Computacional:** Construcción de scripts, bots y herramientas automatizadas utilizando Python y OpenCV para la optimización de flujos de trabajo.
 - ⛓️ **Ecosistema Web3:** Investigación y desarrollo de Smart Contracts utilizando Solidity (Proyecto KipuBank).
 
@@ -49,25 +49,4 @@ Desarrollador de software especializado en backend, automatización de procesos 
 ## 📈 Actividad y Estadísticas
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=michelmassaad&theme=transparent&hide_border=true&title_color=0A66C2&text_color=333333&icon_color=0A66C2&ring_color=0A66C2" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="[![michelmassaad's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelmassaad)](https://github.com/michelmassaad/github-readme-stats)" alt="Estadísticas Generales" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=michelmassaad&show_icons=true&locale=en&layout=compact&bg_color=00000000&hide_border=true&title_color=0A66C2&text_color=333333" height="150" alt="Lenguajes Top" />
-</div>
-
----
-
-## 📂 Proyectos Destacados
-
-<div align="center">
-  <a href="https://github.com/michelmassaad/truco-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=michelmassaad&repo=truco-game&bg_color=00000000&hide_border=true&title_color=0A66C2&text_color=333333&icon_color=0A66C2" width="48%" />
-  </a>
-  <a href="https://github.com/michelmassaad/Ejercicios-Programacion">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=michelmassaad&repo=Ejercicios-Programacion&bg_color=00000000&hide_border=true&title_color=0A66C2&text_color=333333&icon_color=0A66C2" width="48%" />
-  </a>
-</div>
+  <img src="
