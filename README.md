@@ -91,6 +91,6 @@ Software Developer cursando el último cuatrimestre de Programación y Sistemas 
 
 ## 📂 Proyectos Destacados
 
-| 🃏 <a href="https://github.com/michelmassaad/grupo7Integrador25C2Div132_back" target="_blank">Plataforma de Barajitas (Backend)</a> | 💻 <a href="https://github.com/michelmassaad/grupo7Integrador25C2Div132_front" target="_blank">Plataforma de Barajitas (Frontend)</a> |
+| 🃏 <a href="https://github.com/michelmassaad/grupo7Integrador25C2Div132_back" target="_blank">Plataforma de Figuritas (Backend)</a> | 💻 <a href="https://github.com/michelmassaad/grupo7Integrador25C2Div132_front" target="_blank">Plataforma de Figuritas (Frontend)</a> |
 | :--- | :--- |
 | **Arquitectura:** API REST / Base de Datos<br><br>Desarrollo del motor lógico y base de datos para una plataforma de coleccionables, gestionando usuarios, inventarios de cartas y lógica de intercambio. | **Arquitectura:** Interfaz de Usuario / Consumo de API<br><br>Implementación visual y dinámica de la plataforma de barajitas, asegurando una experiencia interactiva fluida conectada al servidor. |
