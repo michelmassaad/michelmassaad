@@ -19,13 +19,13 @@
 
 ## 🚀 Sobre mí
 
-Soy un Desarrollador de Software especializado en **infraestructura Backend, Web3 y automatización de procesos**. Actualmente cursando el último cuatrimestre de la Tecnicatura en Programación y Sistemas en la UTN. Mi enfoque está en construir herramientas escalables, desde motores de procesamiento de video con Inteligencia Artificial hasta aplicaciones financieras descentralizadas.
+Soy un Desarrollador de Software especializado en **infraestructura Backend, Web3 y arquitecturas Full-Stack**. Actualmente cursando el último cuatrimestre de la Tecnicatura en Programación y Sistemas en la UTN. Mi enfoque está en construir herramientas escalables, desde plataformas interactivas hasta aplicaciones financieras descentralizadas en la blockchain.
 
 ### 🎯 Foco Técnico
 
-- ⚙️ **Backend e Integraciones con IA:** Construcción de sistemas automatizados utilizando Node.js, FFmpeg y APIs de Visión (IA) para la extracción de datos en tiempo real.
 - ⛓️ **Web3 & Smart Contracts:** Desarrollo, validación y despliegue de aplicaciones descentralizadas (dApps) utilizando Solidity.
-- 🎮 **Ecosistemas Full-Stack:** Diseño de arquitecturas cliente-servidor, APIs RESTful y bases de datos relacionales para plataformas interactivas.
+- ⚙️ **Backend y Bases de Datos:** Modelado de arquitecturas backend para gestionar inventarios, economías internas y transacciones seguras.
+- 🎮 **Ecosistemas Full-Stack:** Diseño de arquitecturas cliente-servidor y APIs RESTful para asegurar experiencias de usuario dinámicas.
 
 ---
 
@@ -47,7 +47,6 @@ Soy un Desarrollador de Software especializado en **infraestructura Backend, Web
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </div>
 
@@ -55,13 +54,9 @@ Soy un Desarrollador de Software especializado en **infraestructura Backend, Web
 
 ## 📂 Proyectos Destacados
 
-| 🎥 Motor de Procesamiento Audiovisual | 🃏 Plataforma de Coleccionables Digitales |
+| 🃏 Plataforma de Coleccionables Digitales | ⛓️ KipuBank - Sistema Financiero Web3 |
 | :--- | :--- |
-| **Backend / Integración de IA**<br><br>Ingeniería de una herramienta automatizada para el recorte de videos deportivos utilizando **Node.js, FFmpeg y Gemini Vision API**. El sistema extrae metadatos en tiempo real y lee marcadores dinámicos desde la imagen, eliminando el etiquetado manual. | **Full-Stack (Cliente/Servidor)**<br><br>Diseño de un ecosistema completo para el intercambio de cartas digitales. Modelado de la base de datos para manejar la lógica compleja de inventarios y transacciones seguras de los usuarios. <br><br>💻 [Repo Frontend](https://figuritas-store-figuritas-backend.vercel.app/) \| ⚙️ [Repo Backend](https://figuritas-backend.up.railway.app/login) |
-
-| ⛓️ KipuBank - Sistema Financiero Web3 | 🛒 Personalización E-Commerce |
-| :--- | :--- |
-| **Blockchain / Smart Contracts**<br><br>Desarrollo de Smart Contracts utilizando **Solidity** con lógica de validación personalizada para operaciones descentralizadas (dApps), asegurando transacciones financieras seguras y transparentes. | **Frontend / UI-UX**<br><br>Desarrollo y personalización de plataformas e-commerce (ej. TiendaNube), mejorando el diseño UI/UX y optimizando los tiempos de carga utilizando HTML y CSS para aumentar la tasa de conversión. |
+| **Full-Stack (Cliente/Servidor)**<br><br>Diseño de un ecosistema completo para el intercambio de cartas digitales. Modelado de la base de datos para manejar la lógica compleja de inventarios y transacciones seguras de los usuarios.<br><br>🚀 **Live Demos:**<br>💻 [Sitio Web Frontend](https://figuritas-store-figuritas-backend.vercel.app/)<br>⚙️ [API / Backend Live](https://figuritas-backend.up.railway.app/login)<br><br>📂 **Código Fuente:**<br>📦 [Repositorio en GitHub](https://github.com/michelmassaad/Figuritas-store) | **Blockchain / Smart Contracts**<br><br>Desarrollo de Smart Contracts utilizando **Solidity** con lógica de validación personalizada para operaciones descentralizadas (dApps), asegurando transacciones financieras seguras y transparentes en la blockchain.<br><br><br><br>📂 **Código Fuente:**<br>📦 [Repositorio en GitHub](https://github.com/michelmassaad/kipu-bank-v3) |
 
 ---
 
