@@ -83,7 +83,6 @@ Soy un Desarrollador **Full-Stack** con foco en backend e infraestructura, cursa
 ## 📈 Actividad en GitHub
 
 <div align="center">
-  <img src="./profile/streak.svg" alt="Racha en GitHub" />
   <img src="https://streak-stats.demolab.com?user=michelmassaad&theme=transparent&hide_border=true&title_color=0A66C2&text_color=8b949e&icon_color=0A66C2&ring_color=0A66C2" alt="Racha en GitHub" />
 </div>
 <br>
