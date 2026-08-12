@@ -72,7 +72,7 @@ Soy un Desarrollador **Full-Stack** con foco en backend e infraestructura, cursa
 
 | 🎮 Sala de Juegos - Plataforma Multi-Juego | ⛓️ KipuBank - Sistema Financiero Web3 |
 | :--- | :--- |
-| **Full-Stack** · Angular · TypeScript · Supabase · Bootstrap<br><br>Plataforma de minijuegos con autenticación de usuarios, chat global en tiempo real (Supabase Realtime) y sistema de rankings persistido por juego. Incluye Ahorcado, Mayor o Menor, Preguntados y Bici Rush, un juego desarrollado íntegramente desde cero.<br><br>🚀 **Live Demo:**<br>💻 [Ver Sitio](https://tp-sala-de-juegos-eight.vercel.app/)<br><br>📂 **Código Fuente:**<br>📦 [Repositorio en GitHub](https://github.com/michelmassaad/Tp_Sala_de_juegos) | **Blockchain / Smart Contracts** · Solidity · Ethereum<br><br>Smart contract financiero desplegado en la red Ethereum (Sepolia), con lógica segura de depósitos y retiros, y código 100% verificado en Etherscan.<br><br>🚀 **Despliegue Live:**<br>🔍 [Ver en Etherscan (Sepolia)](https://sepolia.etherscan.io/address/0x0f7a2D9172e94305b3Ad5A6Ebf6e8e85890a7a93#code)<br><br>📂 **Código Fuente:**<br>📦 [Repositorio en GitHub](https://github.com/michelmassaad/kipu-bank-v3) |
+| **Full-Stack** · Angular · TypeScript · Supabase · Bootstrap<br><br>Plataforma de minijuegos con autenticación de usuarios, chat global en tiempo real (Supabase Realtime) y sistema de rankings persistido por juego. Incluye Ahorcado, Mayor o Menor, Preguntados y Bici Rush, un juego desarrollado íntegramente desde cero.<br><br>🚀 **Live Demo:**<br>💻 [Ver Sitio](https://tp-sala-de-juegos-eight.vercel.app/)<br><br>📂 **Código Fuente:**<br>📦 [Repositorio en GitHub](https://github.com/michelmassaad/Tp_Sala_de_juegos) | **Blockchain / Smart Contracts** · Solidity · Ethereum<br><br>Smart contract financiero desplegado en la red Ethereum (Sepolia), con lógica segura de depósitos y retiros, y código 100% verificado en Etherscan.<br><br>🚀 **Despliegue Live:**<br>🔍 [Ver en Etherscan (Sepolia)](https://sepolia.etherscan.io/address/0x0f7a2D9172e94305b3Ad5A6Ebf6e8e85890a7a93)<br><br>📂 **Código Fuente:**<br>📦 [Repositorio en GitHub](https://github.com/michelmassaad/kipu-bank-v3) |
 
 <div align="center">
   <sub>Portafolio completo con estos y otros proyectos: <a href="https://michelmassaad.github.io/Portafolio_Michel_Massaad/">michelmassaad.github.io/Portafolio_Michel_Massaad</a></sub>
@@ -83,10 +83,10 @@ Soy un Desarrollador **Full-Stack** con foco en backend e infraestructura, cursa
 ## 📈 Actividad en GitHub
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=michelmassaad&theme=transparent&hide_border=true&title_color=0A66C2&text_color=8b949e&icon_color=0A66C2&ring_color=0A66C2" alt="Racha en GitHub" />
+  <img src="./profile/streak.svg" alt="Racha en GitHub" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats-virid-ten-56.vercel.app/api?username=michelmassaad&show_icons=true&locale=es&bg_color=00000000&hide_border=true&title_color=0A66C2&text_color=8b949e&icon_color=0A66C2" height="150" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats-virid-ten-56.vercel.app/api/top-langs?username=michelmassaad&show_icons=true&locale=es&layout=compact&bg_color=00000000&hide_border=true&title_color=0A66C2&text_color=8b949e" height="150" alt="Lenguajes Top" />
+  <img src="./profile/stats.svg" height="150" alt="Estadísticas de GitHub" />
+  <img src="./profile/top-langs.svg" height="150" alt="Lenguajes Top" />
 </div>
