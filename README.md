@@ -4,7 +4,7 @@
   <a href="https://michelmassaad.github.io/Portafolio_Michel_Massaad/" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio_Web-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio" />
   </a>
-  <a href="https://drive.google.com/file/d/1S_Z-gLgbKsVfToOVQlVPYfSbihdCVFj8/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1Ei5VfOr2fwgjLjeVyjIXdasngXkNzqc_/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Ver_Curriculum-28a745?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV" />
   </a>
   <a href="https://linkedin.com/in/michel-massaad" target="_blank">
